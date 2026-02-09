@@ -1,2 +1,3 @@
-# cpp09
-Ecole 42 C++ piscine last episode
+# Piscine C++
+
+- École 42 introduction to C++ programming.
